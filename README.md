@@ -6,4 +6,4 @@
 + 개선사항
   + 달력 기능을 추가하여 현재 월에 유통기한이 임박한 식품을 쉽게 파악 가능한 기능
   + DB의 CURD를 모두 구현하여 안정적으로 품목 관리
-  https://fkthfvk112.github.io/expirationDateManager/
++ 사이트로 이동 : https://fkthfvk112.github.io/expirationDateManager/
